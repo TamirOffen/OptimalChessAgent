@@ -1,0 +1,488 @@
+/var/spool/slurmd/job223159/slurm_script: 2: module: not found
+Started Training the CNN Board Evaluation Model
+Using cuda to train
+Loaded datasets
+training model with batch size = 64, LR = 0.0001
+avg train loss for epoch 1 is 117.25115966796875
+avg valid loss of model at epoch 1 is 4.043769836425781
+
+avg train loss for epoch 2 is 15.207730293273926
+avg valid loss of model at epoch 2 is 2.7284300327301025
+
+avg train loss for epoch 3 is 6.210216522216797
+avg valid loss of model at epoch 3 is 4.471351146697998
+
+avg train loss for epoch 4 is 3.3458633422851562
+avg valid loss of model at epoch 4 is 1.5676937103271484
+
+avg train loss for epoch 5 is 1.9711287021636963
+avg valid loss of model at epoch 5 is 1.5046329498291016
+
+avg train loss for epoch 6 is 1.541617751121521
+avg valid loss of model at epoch 6 is 1.4163475036621094
+
+avg train loss for epoch 7 is 1.3097416162490845
+avg valid loss of model at epoch 7 is 2.106257677078247
+
+avg train loss for epoch 8 is 1.507206678390503
+avg valid loss of model at epoch 8 is 1.7884438037872314
+
+avg train loss for epoch 9 is 1.4039865732192993
+avg valid loss of model at epoch 9 is 1.1092287302017212
+
+avg train loss for epoch 10 is 1.1602892875671387
+avg valid loss of model at epoch 10 is 1.5479316711425781
+
+avg train loss for epoch 11 is 1.3359264135360718
+avg valid loss of model at epoch 11 is 1.79746675491333
+
+avg train loss for epoch 12 is 1.3590054512023926
+avg valid loss of model at epoch 12 is 1.4878371953964233
+
+avg train loss for epoch 13 is 1.1763596534729004
+avg valid loss of model at epoch 13 is 1.1394048929214478
+
+avg train loss for epoch 14 is 1.282849907875061
+avg valid loss of model at epoch 14 is 1.1364988088607788
+
+avg train loss for epoch 15 is 1.4680513143539429
+avg valid loss of model at epoch 15 is 0.9891824722290039
+
+avg train loss for epoch 16 is 1.2926114797592163
+avg valid loss of model at epoch 16 is 1.677862524986267
+
+avg train loss for epoch 17 is 1.464691400527954
+avg valid loss of model at epoch 17 is 1.5636247396469116
+
+avg train loss for epoch 18 is 1.4997597932815552
+avg valid loss of model at epoch 18 is 1.4788931608200073
+
+avg train loss for epoch 19 is 1.57708740234375
+avg valid loss of model at epoch 19 is 1.2705798149108887
+
+avg train loss for epoch 20 is 1.463574767112732
+avg valid loss of model at epoch 20 is 1.7813045978546143
+
+avg train loss for epoch 21 is 1.528477430343628
+avg valid loss of model at epoch 21 is 1.1072494983673096
+
+avg train loss for epoch 22 is 1.6967644691467285
+avg valid loss of model at epoch 22 is 1.3699359893798828
+
+avg train loss for epoch 23 is 1.597206950187683
+avg valid loss of model at epoch 23 is 1.24423348903656
+
+avg train loss for epoch 24 is 1.3418395519256592
+avg valid loss of model at epoch 24 is 1.1144750118255615
+
+avg train loss for epoch 25 is 1.266257643699646
+avg valid loss of model at epoch 25 is 2.000739574432373
+
+avg train loss for epoch 26 is 1.6290242671966553
+avg valid loss of model at epoch 26 is 1.983847737312317
+
+avg train loss for epoch 27 is 1.475286602973938
+avg valid loss of model at epoch 27 is 1.5462629795074463
+
+avg train loss for epoch 28 is 1.3478809595108032
+avg valid loss of model at epoch 28 is 1.2818641662597656
+
+avg train loss for epoch 29 is 1.341361403465271
+avg valid loss of model at epoch 29 is 1.4050899744033813
+
+avg train loss for epoch 30 is 1.4819847345352173
+avg valid loss of model at epoch 30 is 1.3430198431015015
+
+avg train loss for epoch 31 is 1.2787202596664429
+avg valid loss of model at epoch 31 is 1.335399866104126
+
+avg train loss for epoch 32 is 1.2586790323257446
+avg valid loss of model at epoch 32 is 1.7029521465301514
+
+avg train loss for epoch 33 is 1.5173720121383667
+avg valid loss of model at epoch 33 is 1.3597009181976318
+
+avg train loss for epoch 34 is 1.4057526588439941
+avg valid loss of model at epoch 34 is 1.3623435497283936
+
+avg train loss for epoch 35 is 1.6760138273239136
+avg valid loss of model at epoch 35 is 1.4082748889923096
+
+avg train loss for epoch 36 is 1.3125697374343872
+avg valid loss of model at epoch 36 is 1.8763662576675415
+
+avg train loss for epoch 37 is 1.4868510961532593
+avg valid loss of model at epoch 37 is 1.5940388441085815
+
+avg train loss for epoch 38 is 1.4447981119155884
+avg valid loss of model at epoch 38 is 1.1468729972839355
+
+avg train loss for epoch 39 is 1.5256589651107788
+avg valid loss of model at epoch 39 is 1.482513427734375
+
+avg train loss for epoch 40 is 1.477230429649353
+avg valid loss of model at epoch 40 is 1.4654004573822021
+
+avg train loss for epoch 41 is 1.682577133178711
+avg valid loss of model at epoch 41 is 1.5415658950805664
+
+avg train loss for epoch 42 is 1.4075299501419067
+avg valid loss of model at epoch 42 is 1.6692243814468384
+
+avg train loss for epoch 43 is 1.4498440027236938
+avg valid loss of model at epoch 43 is 1.7103033065795898
+
+avg train loss for epoch 44 is 1.5175867080688477
+avg valid loss of model at epoch 44 is 1.2592204809188843
+
+avg train loss for epoch 45 is 1.4900609254837036
+avg valid loss of model at epoch 45 is 1.181573748588562
+
+avg train loss for epoch 46 is 1.4802361726760864
+avg valid loss of model at epoch 46 is 1.0590953826904297
+
+avg train loss for epoch 47 is 1.1310369968414307
+avg valid loss of model at epoch 47 is 1.5968549251556396
+
+avg train loss for epoch 48 is 1.4349673986434937
+avg valid loss of model at epoch 48 is 1.294356346130371
+
+avg train loss for epoch 49 is 1.2055020332336426
+avg valid loss of model at epoch 49 is 0.9040395617485046
+
+avg train loss for epoch 50 is 1.3456041812896729
+avg valid loss of model at epoch 50 is 1.3393522500991821
+
+avg train loss for epoch 51 is 1.2824159860610962
+avg valid loss of model at epoch 51 is 1.26992666721344
+
+avg train loss for epoch 52 is 1.0755040645599365
+avg valid loss of model at epoch 52 is 0.8791032433509827
+
+avg train loss for epoch 53 is 1.0159175395965576
+avg valid loss of model at epoch 53 is 1.770302653312683
+
+avg train loss for epoch 54 is 1.242651104927063
+avg valid loss of model at epoch 54 is 0.7189754247665405
+
+avg train loss for epoch 55 is 0.9920926690101624
+avg valid loss of model at epoch 55 is 1.0893868207931519
+
+avg train loss for epoch 56 is 0.9520800113677979
+avg valid loss of model at epoch 56 is 1.4096295833587646
+
+avg train loss for epoch 57 is 1.1162078380584717
+avg valid loss of model at epoch 57 is 0.9658377766609192
+
+avg train loss for epoch 58 is 0.9576516151428223
+avg valid loss of model at epoch 58 is 1.2568408250808716
+
+avg train loss for epoch 59 is 1.2200626134872437
+avg valid loss of model at epoch 59 is 1.6690268516540527
+
+avg train loss for epoch 60 is 1.0867702960968018
+avg valid loss of model at epoch 60 is 0.6316713690757751
+
+avg train loss for epoch 61 is 1.2625807523727417
+avg valid loss of model at epoch 61 is 1.0903010368347168
+
+avg train loss for epoch 62 is 1.0294681787490845
+avg valid loss of model at epoch 62 is 0.8337488174438477
+
+avg train loss for epoch 63 is 1.0422031879425049
+avg valid loss of model at epoch 63 is 1.389335036277771
+
+avg train loss for epoch 64 is 0.9720863699913025
+avg valid loss of model at epoch 64 is 1.2014437913894653
+
+avg train loss for epoch 65 is 0.9217056632041931
+avg valid loss of model at epoch 65 is 1.0892455577850342
+
+avg train loss for epoch 66 is 0.9262278079986572
+avg valid loss of model at epoch 66 is 1.0691986083984375
+
+avg train loss for epoch 67 is 0.984566867351532
+avg valid loss of model at epoch 67 is 1.259930968284607
+
+avg train loss for epoch 68 is 1.1886557340621948
+avg valid loss of model at epoch 68 is 0.9312305450439453
+
+avg train loss for epoch 69 is 0.936543345451355
+avg valid loss of model at epoch 69 is 1.1398361921310425
+
+avg train loss for epoch 70 is 1.0962332487106323
+avg valid loss of model at epoch 70 is 0.905281662940979
+
+avg train loss for epoch 71 is 0.720838189125061
+avg valid loss of model at epoch 71 is 0.8153709173202515
+
+avg train loss for epoch 72 is 1.1079435348510742
+avg valid loss of model at epoch 72 is 0.9252177476882935
+
+avg train loss for epoch 73 is 1.0366344451904297
+avg valid loss of model at epoch 73 is 0.8357082009315491
+
+avg train loss for epoch 74 is 0.9614085555076599
+avg valid loss of model at epoch 74 is 0.9835582971572876
+
+avg train loss for epoch 75 is 0.8655135631561279
+avg valid loss of model at epoch 75 is 0.5749713182449341
+
+avg train loss for epoch 76 is 0.9470242261886597
+avg valid loss of model at epoch 76 is 1.1095050573349
+
+avg train loss for epoch 77 is 0.873817503452301
+avg valid loss of model at epoch 77 is 0.8058502078056335
+
+avg train loss for epoch 78 is 0.8010522723197937
+avg valid loss of model at epoch 78 is 1.084182620048523
+
+avg train loss for epoch 79 is 0.9187208414077759
+avg valid loss of model at epoch 79 is 0.9867343902587891
+
+avg train loss for epoch 80 is 0.857613205909729
+avg valid loss of model at epoch 80 is 0.813052237033844
+
+avg train loss for epoch 81 is 0.74753737449646
+avg valid loss of model at epoch 81 is 0.6993850469589233
+
+avg train loss for epoch 82 is 0.8676286935806274
+avg valid loss of model at epoch 82 is 0.7365102171897888
+
+avg train loss for epoch 83 is 1.0087170600891113
+avg valid loss of model at epoch 83 is 0.8624155521392822
+
+avg train loss for epoch 84 is 0.9682323932647705
+avg valid loss of model at epoch 84 is 0.9144743084907532
+
+avg train loss for epoch 85 is 0.8902280926704407
+avg valid loss of model at epoch 85 is 1.0288187265396118
+
+avg train loss for epoch 86 is 0.859009325504303
+avg valid loss of model at epoch 86 is 0.8532624840736389
+
+avg train loss for epoch 87 is 0.9938202500343323
+avg valid loss of model at epoch 87 is 0.6285984516143799
+
+avg train loss for epoch 88 is 0.8445587158203125
+avg valid loss of model at epoch 88 is 1.0718293190002441
+
+avg train loss for epoch 89 is 0.9666391611099243
+avg valid loss of model at epoch 89 is 0.785139799118042
+
+avg train loss for epoch 90 is 0.6835322976112366
+avg valid loss of model at epoch 90 is 0.5369467735290527
+
+avg train loss for epoch 91 is 0.8521589040756226
+avg valid loss of model at epoch 91 is 0.7615797519683838
+
+avg train loss for epoch 92 is 0.760198175907135
+avg valid loss of model at epoch 92 is 0.9686576724052429
+
+avg train loss for epoch 93 is 0.9013720154762268
+avg valid loss of model at epoch 93 is 0.7762765884399414
+
+avg train loss for epoch 94 is 0.8956347107887268
+avg valid loss of model at epoch 94 is 0.9330549836158752
+
+avg train loss for epoch 95 is 0.8680130839347839
+avg valid loss of model at epoch 95 is 0.8452440500259399
+
+avg train loss for epoch 96 is 0.894327700138092
+avg valid loss of model at epoch 96 is 1.1464686393737793
+
+avg train loss for epoch 97 is 0.7130250930786133
+avg valid loss of model at epoch 97 is 0.7637213468551636
+
+avg train loss for epoch 98 is 0.9204514622688293
+avg valid loss of model at epoch 98 is 1.074843406677246
+
+avg train loss for epoch 99 is 0.6891044974327087
+avg valid loss of model at epoch 99 is 0.711889386177063
+
+avg train loss for epoch 100 is 0.7863295078277588
+avg valid loss of model at epoch 100 is 0.7356384992599487
+
+avg train loss for epoch 101 is 0.9428640604019165
+avg valid loss of model at epoch 101 is 0.6091830730438232
+
+avg train loss for epoch 102 is 0.9333602786064148
+avg valid loss of model at epoch 102 is 0.8143640160560608
+
+avg train loss for epoch 103 is 0.7372675538063049
+avg valid loss of model at epoch 103 is 0.5768917798995972
+
+avg train loss for epoch 104 is 0.904992401599884
+avg valid loss of model at epoch 104 is 0.9276521801948547
+
+avg train loss for epoch 105 is 0.8215404152870178
+avg valid loss of model at epoch 105 is 0.7329254150390625
+
+avg train loss for epoch 106 is 0.9662888646125793
+avg valid loss of model at epoch 106 is 1.0438088178634644
+
+avg train loss for epoch 107 is 0.9002419114112854
+avg valid loss of model at epoch 107 is 0.657325267791748
+
+avg train loss for epoch 108 is 0.6644303798675537
+avg valid loss of model at epoch 108 is 1.0139164924621582
+
+avg train loss for epoch 109 is 0.9320967793464661
+avg valid loss of model at epoch 109 is 0.6052818894386292
+
+avg train loss for epoch 110 is 0.6829844117164612
+avg valid loss of model at epoch 110 is 0.8490692377090454
+
+avg train loss for epoch 111 is 0.8535947203636169
+avg valid loss of model at epoch 111 is 0.5870900750160217
+
+avg train loss for epoch 112 is 0.946369469165802
+avg valid loss of model at epoch 112 is 0.8367391228675842
+
+avg train loss for epoch 113 is 0.7561848759651184
+avg valid loss of model at epoch 113 is 0.8501498699188232
+
+avg train loss for epoch 114 is 0.9012176990509033
+avg valid loss of model at epoch 114 is 1.0814111232757568
+
+avg train loss for epoch 115 is 0.8585792779922485
+avg valid loss of model at epoch 115 is 0.6876254081726074
+
+avg train loss for epoch 116 is 0.8943217992782593
+avg valid loss of model at epoch 116 is 0.8450507521629333
+
+avg train loss for epoch 117 is 0.883086621761322
+avg valid loss of model at epoch 117 is 0.9060556888580322
+
+avg train loss for epoch 118 is 0.7128630876541138
+avg valid loss of model at epoch 118 is 1.2266696691513062
+
+avg train loss for epoch 119 is 0.6206784844398499
+avg valid loss of model at epoch 119 is 1.065016269683838
+
+avg train loss for epoch 120 is 0.6148813366889954
+avg valid loss of model at epoch 120 is 0.7087985873222351
+
+avg train loss for epoch 121 is 0.5843328237533569
+avg valid loss of model at epoch 121 is 0.5898513793945312
+
+avg train loss for epoch 122 is 0.7237041592597961
+avg valid loss of model at epoch 122 is 0.8197609782218933
+
+avg train loss for epoch 123 is 0.6793206930160522
+avg valid loss of model at epoch 123 is 0.5613546371459961
+
+avg train loss for epoch 124 is 0.7066339254379272
+avg valid loss of model at epoch 124 is 1.0140440464019775
+
+avg train loss for epoch 125 is 0.7396780848503113
+avg valid loss of model at epoch 125 is 1.1352218389511108
+
+avg train loss for epoch 126 is 0.7989218235015869
+avg valid loss of model at epoch 126 is 0.6061204671859741
+
+avg train loss for epoch 127 is 0.7056097984313965
+avg valid loss of model at epoch 127 is 0.596625566482544
+
+avg train loss for epoch 128 is 0.7714901566505432
+avg valid loss of model at epoch 128 is 0.9269335269927979
+
+avg train loss for epoch 129 is 0.772957444190979
+avg valid loss of model at epoch 129 is 0.9264593124389648
+
+avg train loss for epoch 130 is 0.7084100842475891
+avg valid loss of model at epoch 130 is 0.6368231177330017
+
+avg train loss for epoch 131 is 0.7315466403961182
+avg valid loss of model at epoch 131 is 0.9657003879547119
+
+avg train loss for epoch 132 is 0.7007871866226196
+avg valid loss of model at epoch 132 is 0.6050132513046265
+
+avg train loss for epoch 133 is 0.577864408493042
+avg valid loss of model at epoch 133 is 0.5582237243652344
+
+avg train loss for epoch 134 is 0.6265026330947876
+avg valid loss of model at epoch 134 is 0.5215668678283691
+
+avg train loss for epoch 135 is 0.7443881034851074
+avg valid loss of model at epoch 135 is 0.774839460849762
+
+avg train loss for epoch 136 is 0.7276151180267334
+avg valid loss of model at epoch 136 is 0.9449257850646973
+
+avg train loss for epoch 137 is 1.0034104585647583
+avg valid loss of model at epoch 137 is 0.669096827507019
+
+avg train loss for epoch 138 is 0.9258701801300049
+avg valid loss of model at epoch 138 is 0.8696870803833008
+
+avg train loss for epoch 139 is 0.7702409029006958
+avg valid loss of model at epoch 139 is 0.6957485675811768
+
+avg train loss for epoch 140 is 0.6363868117332458
+avg valid loss of model at epoch 140 is 0.7494872808456421
+
+avg train loss for epoch 141 is 0.7057390809059143
+avg valid loss of model at epoch 141 is 0.84297114610672
+
+avg train loss for epoch 142 is 0.6704848408699036
+avg valid loss of model at epoch 142 is 0.5735576152801514
+
+avg train loss for epoch 143 is 0.6215692162513733
+avg valid loss of model at epoch 143 is 0.5918737053871155
+
+avg train loss for epoch 144 is 0.6499582529067993
+avg valid loss of model at epoch 144 is 0.6516522169113159
+
+avg train loss for epoch 145 is 0.6997004747390747
+avg valid loss of model at epoch 145 is 0.7569931149482727
+
+avg train loss for epoch 146 is 0.7962331771850586
+avg valid loss of model at epoch 146 is 0.5053768157958984
+
+avg train loss for epoch 147 is 0.6317113041877747
+avg valid loss of model at epoch 147 is 0.7006556987762451
+
+avg train loss for epoch 148 is 0.6416516900062561
+avg valid loss of model at epoch 148 is 0.6119672656059265
+
+avg train loss for epoch 149 is 0.5699623823165894
+avg valid loss of model at epoch 149 is 0.5363956689834595
+
+avg train loss for epoch 150 is 0.6322619915008545
+avg valid loss of model at epoch 150 is 0.7637224793434143
+
+avg train loss for epoch 151 is 0.6104401350021362
+avg valid loss of model at epoch 151 is 0.6129745244979858
+
+avg train loss for epoch 152 is 0.7550310492515564
+avg valid loss of model at epoch 152 is 0.6757048964500427
+
+avg train loss for epoch 153 is 0.7370645999908447
+avg valid loss of model at epoch 153 is 1.1307873725891113
+
+avg train loss for epoch 154 is 0.6794086694717407
+avg valid loss of model at epoch 154 is 0.6179298162460327
+
+avg train loss for epoch 155 is 0.7161974906921387
+avg valid loss of model at epoch 155 is 0.7580125331878662
+
+avg train loss for epoch 156 is 0.5360513925552368
+avg valid loss of model at epoch 156 is 0.7951581478118896
+
+avg train loss for epoch 157 is 0.7831913828849792
+avg valid loss of model at epoch 157 is 1.0158549547195435
+
+avg train loss for epoch 158 is 0.7589111924171448
+avg valid loss of model at epoch 158 is 0.858212947845459
+
+avg train loss for epoch 159 is 0.583783745765686
+avg valid loss of model at epoch 159 is 0.5502957105636597
+
+avg train loss for epoch 160 is 0.5438345074653625
+avg valid loss of model at epoch 160 is 0.7362171411514282
+
+Test MSE loss after 160 epochs of training is 0.6200522184371948
+Finished Training
+Saved model to /home/tamiroffen/AI_Project/project/saved_models/cnn_board_eval.pth
