@@ -1,0 +1,39 @@
+name: cs236781-hw
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  # common
+  - ipython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - nodejs>=12.0
+  - numpy
+  - pandas
+  - pip
+  - pytest
+  - pytest-xdist
+  - python=3.8.12
+  - seaborn
+  - opencv
+  - scikit-learn
+  - scipy
+  - tqdm
+  - pip:
+    - nbmerge
+    - kaggle
+    - chess
+    - tensorboard
+    - stockfish
+    
+  # pytorch
+  - pytorch=1.10.1
+  - mkl<2022 # prevents crash when importing torch on M1 mac via rosetta2
+  - cudatoolkit
+  - torchvision
+  - torchtext
+
+platforms:
+  - linux-64
