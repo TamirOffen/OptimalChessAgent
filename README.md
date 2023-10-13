@@ -50,7 +50,7 @@ Finally, when looking at the optimal tradeoff between the CNN and the geneticall
   - Contains the files for the CNN part of the project.
   - `/CNN/project/complex_cnn/complex_model.py`: pytorch model code for module, ChessPosEvalNet, and ChessNet.
   - `/CNN/project/runs`: tensorboard data collected while training. used for displaying training graphs of the models.
-  - `/CNN/project/saved_models`: saved pytroch models for ChessPosEvalNet and ChessNet.
+  - `/CNN/project/saved_models`: saved pytroch models for ChessPosEvalNet and ChessNet. Because of ChessPosEvalNet model size, the trained model can be found on [drive](https://drive.google.com/file/d/1LY1WybdkJewNCGMd1gjsbgnWiLPveL_v/view?usp=sharing).
   - `/CNN/project/ServerBashScripts`: bash scripts used to run the training files on the Technion Lambda server.
   - `/CNN/project/TrainingOutputs`: outputs of training.
   - `/CNN/project/board_eval_tests.ipynb`: tests for ChessEvalPosNet model after training.
