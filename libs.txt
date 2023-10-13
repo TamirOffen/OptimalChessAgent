@@ -1,0 +1,5 @@
+chess
+numpy
+itertools
+typing
+torch
