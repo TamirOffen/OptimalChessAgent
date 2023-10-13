@@ -1,2 +1,0 @@
-print(captured_output.stdout)
-print("hi")
