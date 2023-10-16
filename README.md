@@ -185,12 +185,12 @@ pip install -r libs.txt
   depth = 3
   lambda_value_white = 0.2 
   lambda_value_black = 0.4
-  runGame(depth, white_parameters, black_parameters, lambda_value_white, lambda_value_black):
+  runGame(depth, white_parameters, black_parameters, lambda_value_white, lambda_value_black)
 
   # In order to make the game of limited moves, or play from a specific position, use the following example: 
   max_num_moves = 20
   fen = "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 1"
-  runGame_limited_moves(depth, white_parameters, black_parameters, max_num_moves, fen, lambda_value_white, lambda_value_black):
+  runGame_limited_moves(depth, white_parameters, black_parameters, max_num_moves, fen, lambda_value_white, lambda_value_black)
   ```
 
 
