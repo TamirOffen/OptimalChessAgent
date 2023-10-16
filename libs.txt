@@ -1,5 +1,14 @@
 chess
 numpy
-itertools
 typing
 torch
+pandas
+seaborn
+scikit-learn
+scipy
+nbmerge
+kaggle
+tensorboard
+jupyter
+jupyterlab
+matplotlib
