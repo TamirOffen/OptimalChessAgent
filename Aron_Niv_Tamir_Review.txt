@@ -1,0 +1,46 @@
+
+Daniel Gilo Comments:
+
+Aron, Niv, and Tamir,
+
+In your project, you have built two types of artificial chess agents: a classical, heuristic-based minimax agent, and an agent based on a CNN. You proceeded to build an agent that operates based on the weighted recommendations of the two agents and explored the ideal weighting of those recommendations. Overall, I think your project is excellent all-around, and I had a great time reading it. The thorough, in-depth analysis of your results, supplementing "dry" numerical results with analyzing actual games of the agents (pages 16, 20, and 31) were the highlights of your work, as far as I'm concerned. Additionally, I really liked your idea of representing a chessboard for the neural network as a tensor comprised of a separate matrix for each of the 6 types of chess pieces (pages 9-10). You paid attention to justifying both your algorithmic and experimental choices throughout the report (most notably for me was the explanation of the rationale behind the evaluation methods on page 36), which is very important. Lastly, you have presented your work in a high-level, professional manner: both in the report itself (very aesthetic and easy to follow), and the attached supplementary material, making your results easy to reproduce, a necessary component in a scientific work.
+
+Again, great work overall - well done!
+
+A few comments:
+
+1. On page 4, the paragraph that starts with "This trade-off works by..." would definitely benefit from adding a mathematical formula for the overall evaluation function.
+
+2. The background of ANNs and CNNs (Section 3.1.1) is a bit of an overkill. These are well-known subjects. A few paragraphs with references for further reading would have sufficed.
+
+3. On page 8, Section 3.1.2: This would have been an appropriate place to mention previous works that used CNNs for chess. From the architectures available today, I probably wouldn't choose CNNs first for this task (unless current literature suggests so). CNNs are translation invariant, making them well-suited for many tasks, such as object detection in images. I would imagine, however, that positional information is actually very important in chess, so I would probably opt for an alternative architecture that takes positional information into account, such as Transformers.
+
+4. On page 13, if I understood correctly, the network outputs only two matrices - one "from" matrix and one "to" matrix. I find it a bit counterintuitive that there is only one "to" matrix, regardless of which piece is chosen to be moved according to the "from" matrix. In the provided example, perhaps the high value in g1 in the "to" matrix is because of the possible move of the rook, and not of the king?
+
+5. On page 17, why is individual piece accuracy an interesting metric?
+
+6. On pages 26-27, it seems that while the overall distribution of population performance improved significantly after 100 generations, the performance of the fittest organism improved by about 15% compared to the best random organism, an improvement that seems to me not significant enough - I think there should have been a mention and a brief discussion of this.
+
+7. On page 35, it would have been nice to include a comparison of Table 5 compared to Tables 2 and 3.
+
+
+Shaul Markovich Comments:
+
+Dear Aron, Tamir and Niv,
+Your work on using learning techniques for chess playing is excellent.  
+The project is extensive and thoughtful with very interesting results.
+The grade of this project is 100
+
+Attached you will find the remarks of your supervisor, Daniel.
+In addition, here are some random high-level comment
+
+Shaul
+
+
+( I also attach a couple of very old works with two of my M.Sc. former students that are relevant here).
+
+-  Both approaches, the CNN-based and GA-based, are trained, given a chess position, to predict the "correct" move.  The GA-based function was used and tested as an evaluation function within a (rather shallow) Minimax search.  If I read correctly, the CNN-based function was used as a reactive agent that maps positions to a move without search.  It is difficult to built high-quality reactive chess player.  It would have been interesting to combine it with a minimax engine.
+- Human players are very good at performing highly selective search in chess.  It would be interesting to try your learned functions to apply selective search (i.e., selecting the top-K moves according to your function. (see attached work with Finkelshtein).
+- While CNN performs very well for image-like tasks (as in the case of GO), in chess I would expect that other representations, that take into account the movement graph implied by the pieces, may work better (See Finkelshtein’s work)
+- Using GA for learning weights of a function is problematic since the the only important factor in the weights is their relative weight. Therefore it is possible that two chromosome developed a different scale and are crossed-over.  See the very early work of Lorenz.
+
