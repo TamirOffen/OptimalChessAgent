@@ -1,11 +1,13 @@
 # AI Project - CS236502
-Spring 2023
+Spring 2023 - Shaul Markovich and Daniel Gilo
 
 | Student | Student ID | Email | 
 | ---     | --- | --- |
 | Aron Klevansky| 941190845 | klevansky@campus.technion.ac.il |
 | Niv Ostroff | 212732101 | nivostroff@campus.technion.ac.il |
 | Tamir Offen | 211621479 | tamiroffen@campus.technion.ac.il |
+
+Final Grade: 100. See `Aron_Niv_Tamir_Review.txt` for evaluation.
 
 ## Research Question: 
 
