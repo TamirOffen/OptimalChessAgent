@@ -11,7 +11,7 @@ Final Grade: 100. See `Aron_Niv_Tamir_Review.txt` for evaluation.
 
 ## Research Question: 
 
-    What is the optimal tradeoff between genetically tuned handcrafted features vs. neural trained features when creating a chess playing agent?
+What is the optimal tradeoff between genetically tuned handcrafted features vs. neural trained features when creating a chess playing agent?
 
 
 ## Abstract:
